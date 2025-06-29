@@ -6,7 +6,7 @@ yfinance
 statsmodels
 scikit-learn
 prophet
-tensorflow
+tensorflow==2.15
 transformers
 feedparser
 requests
