@@ -5,9 +5,9 @@ numpy
 statsmodels
 streamlit
 yfinance
-pyttsx3
 warnings
-prophet
+prophet==1.1.2
+cmdstanpy==1.2.0
 scikit-learn
 tensorflow==2.15.0
 feedparser
